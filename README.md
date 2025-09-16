@@ -1,4 +1,4 @@
-# BTK-Datathon-2025 ROC Stars Solution
+# BTK-Datathon-2025 ROC Stars 2nd Place Solution
 
 ## Predicting Session Value in E-Commerce 🛒
 
