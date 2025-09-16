@@ -1,6 +1,6 @@
 # BTK-Datathon-2025 ROC Stars Solution
 
-# Predicting Session Value in E-Commerce 🛒
+## Predicting Session Value in E-Commerce 🛒
 
 ### Problem Definition
 
