@@ -27,7 +27,3 @@ The goal of this project is to **predict the session value for each user session
 * Training **machine learning models** (CatBoost and AutoGluon) to predict session value
 
 This notebook combines **data exploration, anomaly detection, feature engineering, and machine learning modeling** to generate actionable insights for session-level revenue prediction.
-
-
-
-If you want, I can also make an **even more concise, punchy version** specifically for GitHub’s "About" section so it reads well in a few sentences. Do you want me to do that?
